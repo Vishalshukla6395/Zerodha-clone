@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "build": "echo 'No build step for backend'"
   },
   "keywords": [],
   "author": "Vishal Shukla <vishalshukla6395@gmail.com> (https://github.com/Vishalshukla6395)",
